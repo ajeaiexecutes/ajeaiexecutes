@@ -1,5 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,100:7C3AED&height=220&section=header&text=AJAY%20M%20B&fontSize=44&fontColor=E0E7FF&animation=twinkling&desc=PRODUCT-FOCUSED%20FULL%20STACK%20DEV&descSize=16&descAlignY=60&fontAlignY=35" />
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rounded&height=180&section=header&text=AJAY%20M%20B&fontSize=42&fontColor=E2E8F0&color=0:111827,100:334155&desc=MERN%20STACK%20DEVELOPER%20%7C%20NEXT.JS%20%7C%20TYPESCRIPT&descSize=14&descAlignY=66&fontAlignY=42" /><p align="center">
   <a href="https://komarev.com/ghpvc/?username=ajeaiexecutes">
     <img src="https://komarev.com/ghpvc/?username=ajeaiexecutes&label=Profile%20views&color=00FFFF&style=flat-square" alt="ajeaiexecutes's profile views" />
   </a>
