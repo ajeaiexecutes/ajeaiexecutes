@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=AJAY%20M%20B&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=MERN%20STACK%20DEVELOPER&descSize=18&descAlignY=55&textBg=false"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,100:7C3AED&height=220&section=header&text=AJAY%20M%20B&fontSize=44&fontColor=E0E7FF&animation=twinkling&desc=PRODUCT-FOCUSED%20FULL%20STACK%20DEV&descSize=16&descAlignY=60&fontAlignY=35" />
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ajeaiexecutes">
