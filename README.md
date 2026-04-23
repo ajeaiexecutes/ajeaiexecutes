@@ -47,6 +47,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
+<img width="40" src="https://githubusercontent.com" alt="ShadCn UI" title="ShadCn UI"/>
+<img width="40" src="https://githubusercontent.com" alt="Lucide" title="Lucide"/>
+<img width="40" src="https://githubusercontent.com" alt="Vite" title="Vite"/>
+
 
 </p>
 
@@ -54,6 +58,11 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+  <img width="40" src="https://githubusercontent.com" alt="Bun.js" title="Bun.js"/>
+<img width="40" src="https://githubusercontent.com" alt="HTTP" title="HTTP"/>
+<img width="40" src="https://githubusercontent.com" alt="REST" title="REST"/>
+<img width="40" src="https://githubusercontent.com" alt="RabbitMQ" title="RabbitMQ"/>
+
 
 </p>
 
@@ -61,6 +70,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" />
+  <img width="40" src="https://githubusercontent.com" alt="mongoDB" title="mongoDB"/>
+<img width="40" src="https://githubusercontent.com" alt="redis" title="redis"/>
+
 
 </p>
 
@@ -68,6 +80,13 @@
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="40" />&nbsp;&nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" />
+  <img width="40" src="https://githubusercontent.com" alt="Docker" title="Docker"/>
+<img width="40" src="https://githubusercontent.com" alt="CI/CD" title="CI/CD"/>
+<img width="40" src="https://githubusercontent.com" alt="Nginx" title="Nginx"/>
+<img width="40" src="https://githubusercontent.com" alt="Ubuntu" title="Ubuntu"/>
+<img width="40" src="https://githubusercontent.com" alt="Figma" title="Figma"/>
+<img width="40" src="https://githubusercontent.com" alt="npm" title="npm"/>
+
 
 </p>
 
