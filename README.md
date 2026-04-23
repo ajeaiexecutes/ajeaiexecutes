@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020617,100:7C3AED&height=220&section=header&text=AJAY%20M%20B&fontSize=44&fontColor=E0E7FF&animation=twinkling&desc=PRODUCT-FOCUSED%20FULL%20STACK%20DEV&descSize=16&descAlignY=60&fontAlignY=35" />
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ajeaiexecutes">
     <img src="https://komarev.com/ghpvc/?username=ajeaiexecutes&label=Profile%20views&color=00FFFF&style=flat-square" alt="ajeaiexecutes's profile views" />
